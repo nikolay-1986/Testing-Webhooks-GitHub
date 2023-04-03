@@ -10,5 +10,6 @@ Test 9 for GITCL-3305 wh check 27022022 - passed
 Test 10 for GITCL-3305 wh check 27022022 - passed 
 RT-20 check branch 1
 GITCL_2205 checking BfW for gitHub - passed
-GITCL_2205 checking Indexing triggers for gitHub - failed
-GITCL_2205 checking #2 Indexing triggers for gitHub 
+GITCL_2205 checking Indexing triggers for gitHub - failed for BfW
+GITCL_2205 checking #2 Indexing triggers for gitHub - failed for BfW
+GITCL_2205 checking #3 Indexing triggers for OAuth gitHub 
