@@ -15,3 +15,5 @@ GITCL_2205 checking #2 Indexing triggers for gitHub - failed for BfW
 GITCL_2205 checking #3 Indexing triggers for OAuth gitHub - passed for OAUTH
 master checking #1 BfW for gitHub (arizona server)
 Add new branch 
+GITCL_2205 checking BfW for gitHub with disabled OAUTH - IT failed 
+GITCL_2205 checking BfW for gitHub with disabled BfW
