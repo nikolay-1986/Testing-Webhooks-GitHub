@@ -17,3 +17,34 @@ master checking #1 BfW for gitHub (arizona server)
 Add new branch 
 GITCL_2205 checking BfW for gitHub with disabled OAUTH - IT failed 
 GITCL_2205 checking BfW for gitHub with disabled BfW
+TST-3 checking pr actions for 3294 - commit 1
+TST-3 checking pr actions for 3294 - commit 2
+TST-3 checking pr actions for 3294 - commit 3 - not displayed on MR
+TST-3 checking pr actions for 3294 - commit 4
+TST-3 checking pr actions for 3294 - commit 5
+TST-3 checking pr actions for 3294 - commit 6
+TST-3 checking pr actions for 3294 - commit 7
+TST-3 checking pr actions for 3294 - commit 8
+TST-3 checking pr actions for 3294 - commit 9
+
+-----switch om master branch----
+TST-3 checking pr actions for 3294 - commit 10
+TST-3 checking pr actions for 3294 - commit 11
+TST-3 checking pr actions for 3294 - commit 12
+TST-3 checking pr actions for 3294 - commit 13
+TST-3 checking pr actions for 3294 - commit 14
+TST-3 checking pr actions for 3294 - commit 15
+TST-3 checking pr actions for 3294 - commit 15
+TST-3 checking pr actions for 3294 - commit 16
+TST-3 checking pr actions for 3294 - commit 17
+TST-3 checking pr actions for 3294 - commit 18
+TST-3 checking pr actions for 3294 - commit 19
+-----checking commit inc for master branch has passed-----
+
+-----switch on GITCL-3294-INF-1640 branch with kansas server ----
+TST-3 checking pr actions for 3294 - commit 20
+TST-3 checking pr actions for 3294 - commit 21
+TST-3 checking pr actions for 3294 - commit 22
+TST-3 checking pr actions for 3294 - commit 23
+TST-3 checking pr actions for 3294 - commit 24
+TST-3 checking pr actions for 3294 - commit 25
