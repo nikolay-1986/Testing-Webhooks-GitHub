@@ -38,3 +38,7 @@ TST-3 checking pr actions for 3294 - commit 16
 TST-3 checking pr actions for 3294 - commit 17
 TST-3 checking pr actions for 3294 - commit 18
 TST-3 checking pr actions for 3294 - commit 19
+-----checking commit inc for master branch has passed-----
+
+-----switch on GITCL-3294-INF-1640 branch with kansas server ----
+TST-3 checking pr actions for 3294 - commit 20
