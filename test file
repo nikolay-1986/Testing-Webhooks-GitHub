@@ -47,9 +47,15 @@ TST-3 checking pr actions for 3294 - commit 21
 TST-3 checking pr actions for 3294 - commit 22
 TST-3 checking pr actions for 3294 - commit 23
 TST-3 checking pr actions for 3294 - commit 24
-TST-3 checking pr actions for 3294 - commit 25
+TST-3 checking pr actions for 3294 - commit 25 
 
+-- PR creation error appears ----
+TST-3 checking pr actions for 3294 - commit 26  - failed
+
+*******************************************************************
 ----- retest after making improvements by ALindel 11.04.2023 ------
+*******************************************************************
+
 TST-3 checking pr actions for 3294 - commit in main 1 - failed
 TST-3 checking pr actions for 3294 - commit in main 2 - failed
 
@@ -67,4 +73,3 @@ TST-3 checking pr actions for 3294 - commit in main 7 - passed
 --- creating the branches #1, #2, #3 - all of them are passed
 
 --- creating PR TST-3-PR_for_BfW'_4 to TST-3-PR_for_BfW'_3
-
