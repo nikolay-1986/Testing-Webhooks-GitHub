@@ -57,4 +57,7 @@ TST-3 checking pr actions for 3294 - commit in main 2 - failed
 TST-3 checking pr actions for 3294 - commit in main 3 - failed
 
 --- switch on indexing triggers for 3294 -----
+TST-3 checking pr actions for 3294 - commit in main 4 - failed
 
+----GITCL-3294-INF-1640 started  on kansas test server -------------
+TST-3 checking pr actions for 3294 - commit in main 5 
