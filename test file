@@ -48,7 +48,24 @@ TST-3 checking pr actions for 3294 - commit 22
 TST-3 checking pr actions for 3294 - commit 23
 TST-3 checking pr actions for 3294 - commit 24
 TST-3 checking pr actions for 3294 - commit 25
+
 -----checking commit inc for kansas server has passed-----
 
 -- PR creation error appears ----
 TST-3 checking pr actions for 3294 - commit 26
+
+----- retest after making improvements by ALindel 11.04.2023 ------
+TST-3 checking pr actions for 3294 - commit in main 1 - failed
+TST-3 checking pr actions for 3294 - commit in main 2 - failed
+
+----updating webhooks for new build of 3294---- 
+TST-3 checking pr actions for 3294 - commit in main 3 - failed
+
+--- switch on indexing triggers for 3294 -----
+TST-3 checking pr actions for 3294 - commit in main 4 - failed
+
+----GITCL-3294-INF-1640 started  on kansas test server -------------
+TST-3 checking pr actions for 3294 - commit in main 5 - passed
+TST-3 checking pr actions for 3294 - commit in main 6 - passed
+TST-3 checking pr actions for 3294 - commit in main 7 - passed
+
