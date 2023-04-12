@@ -47,8 +47,45 @@ TST-3 checking pr actions for 3294 - commit 21
 TST-3 checking pr actions for 3294 - commit 22
 TST-3 checking pr actions for 3294 - commit 23
 TST-3 checking pr actions for 3294 - commit 24
-TST-3 checking pr actions for 3294 - commit 25
------checking commit inc for kansas server has passed-----
+TST-3 checking pr actions for 3294 - commit 25 
 
 -- PR creation error appears ----
+
+TST-3 checking pr actions for 3294 - commit 26  - failed
+
+*******************************************************************
+----- retest after making improvements by ALindel 11.04.2023 ------
+*******************************************************************
+
+TST-3 checking pr actions for 3294 - commit in main 1 - failed
+TST-3 checking pr actions for 3294 - commit in main 2 - failed
+
+----updating webhooks for new build of 3294---- 
+TST-3 checking pr actions for 3294 - commit in main 3 - failed
+
+--- switch on indexing triggers for 3294 -----
+TST-3 checking pr actions for 3294 - commit in main 4 - failed
+
+----GITCL-3294-INF-1640 started  on kansas test server -------------
+TST-3 checking pr actions for 3294 - commit in main 5 - passed
+TST-3 checking pr actions for 3294 - commit in main 6 - passed
+TST-3 checking pr actions for 3294 - commit in main 7 - passed
+
+--- creating the branches #1, #2, #3 - all of them are passed
+
+--- creating PR TST-3-PR_for_BfW'_4 to TST-3-PR_for_BfW'_3 - passed all
+
+--- checking indexing trigger for 3294 - commit in PR TST-3-PR_for_BfW'_4 - passed (Indexing trigger didn't displayed)
+--- stop checking GITCL-3294-INF-1640 for GitHub
+--- test passed
+test commit
+TST-3 test commit 2
+TST-3-PR_for_BfW_for_conflict
+new line in file
+--conflict is resolved
+TST-3 create pr with asignee
+TST-3 create pr with asignee again
+
+TST-3-PR_for_BfW_1
 TST-3 checking pr actions for 3294 - commit 26
+TST-3 add new line for found the displaying bug 
