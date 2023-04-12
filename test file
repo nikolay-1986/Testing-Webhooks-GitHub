@@ -77,4 +77,4 @@ TST-3 checking pr actions for 3294 - commit in main 7 - passed
 --- checking indexing trigger for 3294 - commit in PR TST-3-PR_for_BfW'_4 - passed (Indexing trigger didn't displayed)
 --- stop checking GITCL-3294-INF-1640 for GitHub
 --- test passed
-
+new line in file
