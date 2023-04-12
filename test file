@@ -50,6 +50,7 @@ TST-3 checking pr actions for 3294 - commit 24
 TST-3 checking pr actions for 3294 - commit 25 
 
 -- PR creation error appears ----
+
 TST-3 checking pr actions for 3294 - commit 26  - failed
 
 *******************************************************************
@@ -84,3 +85,7 @@ new line in file
 --conflict is resolved
 TST-3 create pr with asignee
 TST-3 create pr with asignee again
+
+TST-3-PR_for_BfW_1
+TST-3 checking pr actions for 3294 - commit 26
+TST-3 add new line for found the displaying bug 
