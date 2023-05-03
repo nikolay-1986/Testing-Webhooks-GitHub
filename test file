@@ -92,3 +92,4 @@ TST-3 add new line for found the displaying bug
 RT-29 #comment Release testing 17042023 for GitHub_WH on US1_US2_EUC_EUW region (s) #label GitHub_WH #time 15m testing regular release for GitHub_WH #in-progress
 RT-30 #comment Release testing 24042023 for Githubcom_WH on US1_US2 region (s) #label Githubcom_WH #time 15m testing regular release for Githubcom_WH #in-progress
 SMK-9 #comment check SC without permissions to projects #time 20m checking spent time #done  
+SMK-9 RT-16 #comment check №2 SC without permissions for both projects #time 20m checking №2 spent time #done  
